@@ -2,6 +2,7 @@
 Documentation WSL2 in windows
 
 ## Select the distribution to be installed
+
 From ofitial Ubuntu site select the Ubuntu to be installed
 
 https://github.com/masalinas/doc-wsl-windows.git
@@ -19,7 +20,8 @@ where:
 
 By default the unique user account created is root
 
-## Start distribution
+## Start distribution
+
 ```
  wsl -d ubuntu-k3s genie -s
 ```
