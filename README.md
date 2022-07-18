@@ -1,7 +1,7 @@
 # Description
 Documentation WSL2 in windows
 
-## Select the distribution to be installed
+## Select the distribution to be installed
 
 From ofitial Ubuntu site select the Ubuntu to be installed
 
