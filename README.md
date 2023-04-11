@@ -25,3 +25,16 @@ By default the unique user account created is root
 ```
  wsl -d ubuntu-k3s genie -s
 ```
+
+## Autostart docker
+  
+```
+C:\Users\masal\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\wsl_setup.bat
+```
+ 
+with this command:
+ 
+```
+wsl -d Ubuntu-20.04 -e sudo service docker start
+```
+ 
